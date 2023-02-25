@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gboxdaky
-- 👀 I’m interested in JavaScript Java React Angular
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in C# NodeJS JavaScript Java React Angular
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me damir@damlok.ch
 
